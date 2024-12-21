@@ -1,0 +1,12 @@
+# Ignore the following folders
+.vscode/
+.DS_Store
+*.dSYM/
+
+# Ignore executables
+test_inv_P*
+test_speed_P*
+test_cnt_P*
+
+# Ignore results
+results_test_*
